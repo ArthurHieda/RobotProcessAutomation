@@ -1,0 +1,8 @@
+requests 
+pony 
+bcrypt 
+pydantic 
+uvicorn 
+fastapi 
+passlib 
+python-jose
